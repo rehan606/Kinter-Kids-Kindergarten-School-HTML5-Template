@@ -1,0 +1,786 @@
+@media(min-width:1200px){
+    /* Scroll Top */
+    .scrollTop {
+        bottom: 119px;
+    }
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    
+    
+    /* Menu */
+    .main_menu ul li {
+        margin-right: 0;
+    }
+
+    /* Banner */
+    .banner_text h2 {
+        font-size: 80px;
+    }
+
+    /* About */
+    .about_image img {
+        margin-top: 33px;
+    }
+
+
+    /* Faculty */
+    .faculty_box .content .icons {
+        left: 47%;
+    }
+
+    /* Footer */
+    .copyright_section .copyright_social_icon ul li {
+        margin-left: 0;
+        padding-right: 0;
+    }
+    .copyright_section {
+        padding: 25px 0;
+    }
+
+    /* Scroll Top */
+    .scrollTop {
+        bottom: 89px;
+    }
+
+    /* FEETER */
+    
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    /*MENU*/
+    .header_top .left li {
+        font-size: 12px;
+        padding: 0 10px;
+    }
+    .header_top .right li {
+        padding: 0 6px;
+    }
+
+    .main_menu ul li {
+        padding: 0;
+    }
+    .navbar-expand-md .navbar-collapse {
+        margin-right: -17px;
+    }
+    .main_menu ul {
+        line-height: 50px;
+    }
+    .menu_button a {
+        display: none;
+    }
+
+    /* Banner */
+    .banner_text h2 {
+        font-size: 78px;
+    }
+    .banner_text h3 {
+        font-size: 36px;
+    }
+
+    /* Feature */
+    .section_header p {
+        padding: 0 30px;
+    }
+    .feature_item {
+        margin-bottom: 30px;
+    }
+
+    /* About */
+    .about_content h2 {
+        font-size: 34px;
+    }
+    .about_image img {
+        margin-top: 180px;
+        width: 100%;
+        margin-left: 50px;
+        border: 10px solid #fff;
+        -webkit-box-shadow: -2px 19px 8px -11px rgba(0,0,0,0.23); 
+        box-shadow: -2px 19px 8px -11px rgba(0,0,0,0.23);
+    }
+
+    /* Classes */
+    .class_item {
+        margin-bottom: 30px;
+    }
+
+    /* Faculty */
+    
+    .faculty_box{
+        margin-bottom: 30px;
+    }
+    .faculty_box img{
+        width: 100%;
+    }
+
+    /* Facilili */
+
+    .faciliti_box .content {
+        margin-left: 0;
+        margin-top: 145px;
+    }
+
+    /* Gallery */
+    .element-item{
+        width: 100%;
+        margin-left: 0;
+    }
+    
+    /* Blog */
+    .blog_item{
+        margin-bottom: 30px;
+    }
+    /* Footer */
+    .footer_top_wrapper{
+        border-bottom: 1px solid #7346e0;
+    }
+    .single_box {
+        border-right: 1px solid #7346e0;
+    }
+    .single_box_2{
+        border-right: none;
+    }
+    .footer_top_content {
+        margin-top: 65px;
+    }
+    .footer_top_content span {
+        font-size: 16px;
+    }
+    .footer_bottom{
+        padding-bottom: 80px;
+    }
+    .widget_box{
+        margin-bottom: 50px;
+    }
+
+    .copyright_section p {
+        text-align: center;
+    }
+    .copyright_section .copyright_social_icon ul li {
+        margin-left: 0;
+        margin-top: 15px;
+        text-align: center;
+    }
+    .copyright_section{
+        padding: 20px 0 30px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    /* MENU */
+    body{
+        overflow-x: hidden;
+    }
+    .header_top {
+        display: none;
+    }
+    .header_top ul{
+       margin-left: 60px;
+    }
+
+    .main_menu {
+        z-index: 20;
+        position: fixed;
+        top: 0;
+        padding: 0 70px;
+    }
+    .menu_fix img {
+        width: 110px;
+        height: 31px;
+    }
+    .navbar-toggler {
+        padding: 0;
+    }
+    .main_menu .fa-bars{
+        font-size: 30px;
+        color: #e84b3a;
+    }
+    .main_menu span{
+        color: #23cc88;
+        font-weight: 700;
+    }
+    .main_menu .navbar-nav {
+        background: #253039;
+        border-radius: 0;
+        transition: all 5s;
+        position: relative;
+        z-index: 20;
+        margin-top: 17px;
+        -webkit-transition: all 5s;
+        -moz-transition: all 5s;
+        -ms-transition: all 5s;
+        -o-transition: all 5s;
+    }
+    
+    .main_menu ul li {
+        margin-right: 0;
+        border-top:1px solid #fff;
+        
+    }
+    .main_menu ul li a{
+        color: #fff;
+        padding: 0;
+    }
+
+    .main_menu ul li:hover::after {
+        display: none;
+
+    }
+    .menu_button a {
+        display: none;
+    }
+
+    /* Banner */
+    .banner_text h3 {
+        font-size: 30px;
+    }
+    .banner_text h2 {
+        font-size: 50px;
+    }
+    .banner_text p {
+        font-size: 16px;
+    }
+    /* All Section Header */
+    
+    .section_header h2 {
+        font-size: 30px;
+    }
+    .section_header p {
+        padding: 0;
+    }
+    /* Feature */
+    .feature_item {
+        margin-bottom: 30px;
+    }
+    .feature_content p {
+        font-size: 17px;
+    }
+
+    /* About */
+    .about_content {
+        padding: 80px 0 130px;
+    }
+    .about_content h2 {
+        font-size: 30px;
+    }
+    .about_image img {
+        display: none;
+    }
+
+    /* Classes */
+    #classes{
+        padding: 130px 0;
+    }
+    .class_item {
+        margin-bottom: 30px;
+    }
+    .classes_button {
+        margin-top: 50px;
+    }
+
+    /* Counter */
+    .counter_box {
+        margin-bottom: 40px;
+    }
+    /* Faculty */
+    .faculty_box {
+        margin: 0 0 30px;
+    }
+    .faculty_box .content img {
+        width: 100%;
+    }
+    /* Gallery */
+    .button-group .buttons {
+        font-size: 14px;
+        padding-bottom: 20px;
+    }
+    .element-item {
+        width: 98%;
+        margin: 0 5px 30px;
+    }
+    .overlay_content .views a {
+        position: relative;
+        top: 160px;
+    }
+    .overlay_content h3 {
+        margin-top: 85%;
+    }
+    /* Blog*/
+    .blog_item {
+        margin: 0 0 30px;
+    }
+
+    /* Brand */
+    .brands .single_brand img {
+        width: 100%;
+        padding: 0 10px;
+    }
+
+    /* Footer */
+    .footer_top{
+        padding-bottom: 50px;
+    }
+    .footer_top_wrapper {
+        margin-bottom: 10px;
+        padding-top: 30px;
+    }
+    .single_box {
+        border-right: 0;
+        padding: 20px 0px;
+    }
+    .footer_top_content {
+        margin-top: 75px;
+    }
+    .footer_bottom{
+        padding-bottom: 80px;
+    }
+    .widget_box h3 {
+        margin-top: 30px;
+    }
+    .widget_blog {
+        padding-bottom: 25px;
+    }
+    .copyright_social_icon{
+        display: none;
+    }
+    .copyright_section {
+        padding: 21px 0;
+    }
+    .copyright_section p {
+        text-align: center;
+    }
+
+    /* SCROLL TOP */
+    .scrollTop {
+        bottom: 75px;
+    }
+
+}
+
+
+@media(max-width:575px){
+
+    /* MENU */
+    body{
+        overflow-x: hidden;
+    }
+    .header_top {
+        display: none;
+    }
+    .header_top ul{
+       margin-left: 60px;
+    }
+
+    .main_menu {
+        z-index: 20;
+        position: fixed;
+        top: 0;
+        padding: 0 70px;
+    }
+    .menu_fix img {
+        width: 110px;
+        height: 31px;
+    }
+    .navbar-toggler {
+        padding: 0;
+    }
+    .main_menu .fa-bars{
+        font-size: 30px;
+        color: #e84b3a;
+    }
+    .main_menu span{
+        color: #23cc88;
+        font-weight: 700;
+    }
+    .main_menu .navbar-nav {
+        background: #253039;
+        border-radius: 0;
+        transition: all 5s;
+        position: relative;
+        z-index: 20;
+        margin-top: 17px;
+        -webkit-transition: all 5s;
+        -moz-transition: all 5s;
+        -ms-transition: all 5s;
+        -o-transition: all 5s;
+    }
+    
+    .main_menu ul li {
+        margin-right: 0;
+        border-top:1px solid #fff;
+        
+    }
+    .main_menu ul li a{
+        color: #fff;
+        padding: 0;
+    }
+
+    .main_menu ul li:hover::after {
+        display: none;
+
+    }
+    .menu_button a {
+        display: none;
+    }
+    
+    /* Banner */
+    #banner {
+        padding: 150px 0;
+    }
+    .banner_text{
+        padding: 0 68px;
+    }
+    .banner_text h3 {
+        font-size: 25px;
+    }
+    .banner_text h2 {
+        font-size: 44px;
+        line-height: 44px;
+    }
+    .banner_button{
+        padding: 0 68px;
+    }
+    /* Feature */
+    #feature {
+        padding: 150px 0 80px;
+    }
+    .section_header h2 {
+        padding: 0 100px;
+        font-size: 30px;
+    }
+    .section_header p{
+        padding: 0 68px;
+        
+    }
+    .feature_item {
+        margin: 0 67px 27px;
+    }
+    /* About */
+    .about_content{
+        padding: 80px 68px;
+    }
+    .about_content h2 {
+        font-size: 30px;
+        letter-spacing: 1px;
+    }
+    .about_image{
+        display: none;
+    }
+    /* All Section Header */
+    .section_header h2 {
+        font-size: 32px;
+    }
+    /* Classes */
+    .class_item{
+        margin: 0 68px 27px;
+    }
+    .class_content {
+        padding: 30px 22px 10px;
+    }
+    .classes_button {
+        margin-top: 40px;
+    }
+    /* Counter */
+    .counter_box {
+    
+        margin-bottom: 30px;
+    }
+    /* Faculty */
+    .faculty_box {
+        margin: 0 68px 27px;
+    }
+    .faculty_box .content img {
+        width: 100%;
+    }
+
+    /* Faciliti */
+    .faciliti_box{
+        margin: 0 68px 27px;
+    }
+    .faciliti_box .content {
+        margin-left: 0;
+        margin-top: 137px;
+    }
+    .faciliti_box .content h3 {
+        font-size: 23px;
+    }
+
+    /* Gallery */
+    .button-group .buttons{
+        font-size: 15px;
+        padding-bottom: 20px;
+    }
+    .button-group {
+        margin-bottom: 30px;
+        padding: 0 68px;
+    }
+    .element-item {
+        width: 75%;
+        margin: 0 75px 10px;
+    }
+    .overlay_content p{
+        margin-top: -7px;
+    }
+
+    /* Blog*/
+    .blog_item{
+        margin: 0 68px 27px;
+    }
+
+    /* Brand */
+
+    .single_brand img{
+        margin: auto;
+    }
+    /* Footer */
+    .footer_top_wrapper {
+        padding: 20px 52px 40px;
+        margin: 0 18px;
+        border-bottom: none;
+    }
+    .single_box {
+        border-right: none;
+        padding: 29px 0 0;
+    }
+    .footer_top_content{
+        margin-top: 66px;
+    }
+    .footer_top_content h5 {
+        margin-bottom: 5px;
+    }
+    .footer_bottom{
+        padding-bottom: 50px;
+    }
+    .widget_box {
+        margin: 0 68px;
+        padding-bottom: 40px;
+    }
+    .copyright_social_icon{
+        display: none;
+    }
+    .copyright_section {
+        padding: 21px 0;
+    }
+    .copyright_section p {
+        margin-top: 0;
+        text-align: center;
+    }
+    /* SCROLL TOP */
+    .scrollTop {
+        bottom: 65px;
+        right: 17px;
+    }
+}
+
+@media (max-width:480px){
+
+    
+}
+
+@media (max-width: 320px){
+    body{
+        overflow-x: hidden;
+    }
+    .header_top {
+        display: none;
+    }
+    .header_top ul{
+       margin-left: 60px;
+    }
+    .main_menu {
+        z-index: 10;
+        position: fixed;
+        top: 0;
+    }
+    .menu_fix img {
+        width: 110px;
+        height: 50px;
+    }
+    .navbar-toggler {
+        padding: 0;
+    }
+    .main_menu .fa-bars{
+        font-size: 30px;
+        color: #e84b3a;
+    }
+    .main_menu span{
+        color: #23cc88;
+        font-weight: 700;
+    }
+    .main_menu .navbar-nav {
+        background: #253039;
+        border-radius: 0;
+        transition: all 5s;
+        position: relative;
+        z-index: 20;
+        margin-top: 17px;
+        -webkit-transition: all 5s;
+        -moz-transition: all 5s;
+        -ms-transition: all 5s;
+        -o-transition: all 5s;
+    }
+    
+    .main_menu ul li {
+        margin-right: 0;
+        border-top:1px solid #fff;
+        
+    }
+    .main_menu ul li a{
+        color: #fff;
+        padding: 0;
+    }
+
+    .menu_button a {
+        display: none;
+    }
+
+    /* Banner */
+    #banner {
+        padding: 120px 0;
+    }
+    .banner_text{
+        padding: 0 15px;
+    }
+    .banner_text h3 {
+        font-size: 25px;
+    }
+    .banner_text h2 {
+        font-size: 44px;
+        line-height: 44px;
+    }
+    .banner_button{
+        padding: 0 15px;
+    }
+    .banner_button a{
+        display: inline-block;
+        margin-bottom: 20px;
+    }
+
+    /* Feature */
+    #feature {
+        padding: 100px 0 80px;
+    }
+    .section_header h2 {
+        font-size: 30px;
+    }
+    .section_header p{
+        padding: 0 20px;
+        text-align: justify;
+    }
+    .feature_item {
+        margin: 0 18px 27px;
+    }
+
+    /* About */
+    .about_content{
+        padding: 80px 20px;
+    }
+    .about_content h2 {
+        font-size: 28px;
+    }
+    .about_image{
+        display: none;
+    }
+    /* All Section Header */
+    .section_header h2 {
+        font-size: 32px;
+    }
+
+    /* Classes */
+    .class_item{
+        margin: 0 18px 27px;
+    }
+    .class_content {
+        padding: 30px 22px 10px;
+    }
+    .classes_button {
+        margin-top: 40px;
+    }
+
+    /* Faculty */
+    .faculty_box {
+        margin: 0 18px 27px;
+    }
+    .faculty_box .content img {
+        width: 100%;
+    }
+
+    /* Faciliti */
+    .faciliti_box{
+        margin: 0 18px 27px;
+    }
+    .faciliti_box .content {
+        margin-left: 0;
+        margin-top: 137px;
+    }
+    .faciliti_box .content h3 {
+        font-size: 23px;
+    }
+
+    /* Gallery */
+    .button-group .buttons{
+        font-size: 15px;
+        padding-bottom: 20px;
+    }
+    .element-item{
+        width: 90%;
+        margin: 0 18px 10px;
+    }
+    .overlay_content p{
+        margin-top: -7px;
+    }
+
+    /* Blog*/
+    .blog_item{
+        margin: 0 18px 27px;
+    }
+
+    /* Brand */
+    .single_brand img{
+        margin: auto;
+    }
+    /* Footer */
+    .footer_top_wrapper{
+        padding: 20px 0 40px;
+        margin: 0 18px;
+        border-bottom: none;
+    }
+    .single_box {
+        border-right: none;
+        padding: 29px 0 0;
+    }
+    .footer_top_content{
+        margin-top: 66px;
+    }
+    .footer_top_content h5 {
+        margin-bottom: 5px;
+    }
+
+    .widget_box {
+        margin: 0 18px;
+        padding-bottom: 40px;
+    }
+    .copyright_social_icon{
+        display: none;
+    }
+    .copyright_section {
+        padding: 21px 0;
+    }
+    .copyright_section p {
+        margin-top: 0;
+        text-align: center;
+
+    }
+     /* /* SCROLL TOP */
+    .scrollTop {
+        bottom: 65px;
+        right: 17px;
+    }
+
+   
+    
+    
+}
+    
