@@ -1,6 +1,6 @@
 # 🎨 Kinter - Kindergarten Website
 
-**Live Preview:** [https://kinter-kintergarten-website.netlify.app/](https://kinter-kintergarten-website.netlify.app/)
+**Live Preview:** [Kinter-Kintergarten](https://kinter-kintergarten-website.netlify.app/)
 
 Kinter is a beautifully designed, fully responsive kindergarten website that showcases essential features for a modern early childhood education center. This project is built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**, focusing on colorful UI, usability, and mobile-friendly layouts.
 
