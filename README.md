@@ -23,7 +23,7 @@ Kinter is a beautifully designed, fully responsive kindergarten website that sho
 ## 📌 Project Status
 
 ✅ Completed – Live and functional on Netlify  
-📦 Source code Comming soon..
+📦 Source code available in this repository
 
 ---
 
